@@ -43,5 +43,6 @@ for i in range(n):
 
 
 # To print Pyramid pattern with * symbols
-
+# spaces = ' ' * (n - i - 1)
+# stars = '* ' * (2 * i + 1)
 
